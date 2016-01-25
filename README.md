@@ -25,3 +25,10 @@ These are the list of things I have built/contributed to overtime:
 * [Ascii Faces](https://github.com/unicodeveloper/cool-ascii-faces)
 * [Naija StateCapital](https://github.com/unicodeveloper/naija-statecapital)
 * [Vue twittershare](https://github.com/unicodeveloper/vue-twittershare)
+
+I also like to write and I have published some really cool posts that you might find interesting:
+
+* [An Open Letter to HTTP](https://medium.com/@unicodeveloper/an-open-letter-to-http-85cec63a5c2#.33pzm8l3f)
+* [Brace Up, PHP 7 is changing the game](https://medium.com/@unicodeveloper/brace-up-php-7-is-changing-the-game-1ad2343cd67f#.lgfyf21dq)
+* [The Work of a Developer Evangelist](https://medium.com/@unicodeveloper/the-work-of-a-developer-evangelist-d01dcf2b3b31#.937xttm6q)
+* [The 10 commandments of a Born Again Developer](https://medium.com/@unicodeveloper/the-work-of-a-developer-evangelist-d01dcf2b3b31#.937xttm6q)
