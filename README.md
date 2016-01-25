@@ -1,6 +1,6 @@
 # Things Built and Worked On
 
-These are the list of things I have built/contributed to overtime:
+These are the list of things I have built/contributed to overtime :fire:
 
 * [Meanmap](http://meanmap.com)
 * [Laramap](https://laramap.com)
@@ -26,6 +26,8 @@ These are the list of things I have built/contributed to overtime:
 * [Naija StateCapital](https://github.com/unicodeveloper/naija-statecapital)
 * [Vue twittershare](https://github.com/unicodeveloper/vue-twittershare)
 
+*Note*: There are things I have built that I can't list here due to NDA(Non-disclosure Agreements).
+
 I also like to write and I have published some really cool posts that you might find interesting:
 
 * [An Open Letter to HTTP](https://medium.com/@unicodeveloper/an-open-letter-to-http-85cec63a5c2#.33pzm8l3f)
@@ -39,3 +41,5 @@ I write and publish programming tutorials very frequently on [goodheads.io](http
 * [Javascript](http://goodheads.io/category/javascript/)
 * [Ruby](http://goodheads.io/category/ruby/)
 * [PHP](http://goodheads.io/category/php/)
+
+I am funny and amazing to work with :smile:
