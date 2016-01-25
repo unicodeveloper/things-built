@@ -1,5 +1,27 @@
 # Things Built and Worked On
 
-These are the list of things I have built and contributed to overtime:
+These are the list of things I have built/contributed to overtime:
 
-* [Mean map](http://meanmap.com)
+* [Meanmap](http://meanmap.com)
+* [Laramap](https://laramap.com)
+* [Vanguard Spark](http://www.thesparkng.com/)
+* [9to5woman](http://9to5woman.com/)
+* [Laranaija](http://laranaija.com)
+* [Rubynaija](http://rubynaija.com)
+* [Laravel framework](https://github.com/laravel/framework)
+* [Laravel Mentions](https://github.com/unicodeveloper/laravel-mentions)
+* [Laravel Wikipedia](https://github.com/unicodeveloper/laravel-wikipedia)
+* [Laravel Feeder](https://github.com/unicodeveloper/laravel-feeder)
+* [Laravel Identify](https://github.com/unicodeveloper/laravel-identify)
+* [Laravel Email Validator](https://github.com/unicodeveloper/laravel-email-validator)
+* [TypingSpeed Bot](https://github.com/unicodeveloper/typingspeed-bot)
+* [Plate number](https://github.com/unicodeveloper/plate-number)
+* [Face palm](https://github.com/unicodeveloper/face-palm)
+* [Laravel Medium](https://github.com/unicodeveloper/laravel-medium)
+* [Laravel Sessiontimeout](https://github.com/unicodeveloper/laravel-sessiontimeout)
+* [Laravel leanpub](https://github.com/unicodeveloper/laravel-leanpub)
+* [Laravel Codepen](https://github.com/unicodeveloper/laravel-codepen)
+* [Laravel Yearly](https://github.com/unicodeveloper/laravel-yearly)
+* [Ascii Faces](https://github.com/unicodeveloper/cool-ascii-faces)
+* [Naija StateCapital](https://github.com/unicodeveloper/naija-statecapital)
+* [Vue twittershare](https://github.com/unicodeveloper/vue-twittershare)
