@@ -32,3 +32,10 @@ I also like to write and I have published some really cool posts that you might 
 * [Brace Up, PHP 7 is changing the game](https://medium.com/@unicodeveloper/brace-up-php-7-is-changing-the-game-1ad2343cd67f#.lgfyf21dq)
 * [The Work of a Developer Evangelist](https://medium.com/@unicodeveloper/the-work-of-a-developer-evangelist-d01dcf2b3b31#.937xttm6q)
 * [The 10 commandments of a Born Again Developer](https://medium.com/@unicodeveloper/the-work-of-a-developer-evangelist-d01dcf2b3b31#.937xttm6q)
+
+I write and publish programming tutorials very frequently on [goodheads.io](http://goodheads.io)
+
+* [Laravel](http://goodheads.io/category/laravel/)
+* [Javascript](http://goodheads.io/category/javascript/)
+* [Ruby](http://goodheads.io/category/ruby/)
+* [PHP](http://goodheads.io/category/php/)
