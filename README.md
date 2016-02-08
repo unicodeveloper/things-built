@@ -25,6 +25,7 @@ These are the list of things I have built/contributed to overtime :fire:
 * [Laravel Ngsc](https://github.com/unicodeveloper/laravel-ngsc)
 * [Laravel Paystack](https://github.com/unicodeveloper/laravel-paystack)
 * [Laravel Quotes](https://github.com/unicodeveloper/laravel-quotes)
+* [Laravel Emoji](https://github.com/unicodeveloper/laravel-emoji)
 * [Ascii Faces](https://github.com/unicodeveloper/cool-ascii-faces)
 * [Naija StateCapital](https://github.com/unicodeveloper/naija-statecapital)
 * [Vue twittershare](https://github.com/unicodeveloper/vue-twittershare)
