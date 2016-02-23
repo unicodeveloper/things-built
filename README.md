@@ -9,6 +9,7 @@ These are the list of things I have built/contributed to overtime :fire:
 * [Laranaija](http://laranaija.com)
 * [Rubynaija](http://rubynaija.com)
 * [Laravel framework](https://github.com/laravel/framework)
+* [Laravel Hackathon Starter](https://github.com/unicodeveloper/laravel-hackathon-starter)
 * [Laravel Mentions](https://github.com/unicodeveloper/laravel-mentions)
 * [Laravel Wikipedia](https://github.com/unicodeveloper/laravel-wikipedia)
 * [Laravel Feeder](https://github.com/unicodeveloper/laravel-feeder)
