@@ -41,6 +41,7 @@ I also like to write and I have published some really cool posts that you might 
 * [The Work of a Developer Evangelist](https://medium.com/@unicodeveloper/the-work-of-a-developer-evangelist-d01dcf2b3b31#.937xttm6q)
 * [The 10 commandments of a Born Again Developer](https://medium.com/@unicodeveloper/the-10-commandments-of-a-born-again-developer-1fd5a57b123e#.7q98tu1j6)
 * [One Way to Greatness: Pick Yourself](https://medium.com/@unicodeveloper/one-way-to-greatness-pick-yourself-31945487731b#.x83o7xh0t)
+* [Jon Skeet - The Chuck Norris of Programming](https://medium.com/@unicodeveloper/jon-skeet-the-chuck-norris-of-programming-ee5781c7e18a#.imdat9km3)
 
 I write and publish programming tutorials very frequently on [goodheads.io](http://goodheads.io)
 
